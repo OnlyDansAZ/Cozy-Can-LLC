@@ -1,4 +1,4 @@
-This repository contains the SMS Consent Form for [Company Name] to ensure compliance with SMS marketing regulations, including the Telephone Consumer Protection Act (TCPA), CAN-SPAM Act, and other applicable laws. The form allows users to opt-in to receive SMS communications regarding their inquiry into [Company Name]'s services, such as quotes, updates, promotions, and more.
+This repository contains the SMS Consent Form for Cozy Can to ensure compliance with SMS marketing regulations, including the Telephone Consumer Protection Act (TCPA), CAN-SPAM Act, and other applicable laws. The form allows users to opt-in to receive SMS communications regarding their inquiry into Cozy Can's services, such as quotes, updates, promotions, and more.
 
 By submitting the form, users explicitly consent to receive SMS messages and are informed of their ability to opt-out at any time by replying with STOP. Consent records are securely logged and stored in Google Sheets for compliance verification.
 
