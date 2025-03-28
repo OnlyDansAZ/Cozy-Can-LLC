@@ -1,24 +1,18 @@
-# SMS Consent Form for [Company Name]
+This repository contains the SMS Consent Form for [Company Name] to ensure compliance with SMS marketing regulations, including the Telephone Consumer Protection Act (TCPA), CAN-SPAM Act, and other applicable laws. The form allows users to opt-in to receive SMS communications regarding their inquiry into [Company Name]'s services, such as quotes, updates, promotions, and more.
 
-This repository contains the **SMS Consent Form** for [Company Name] to comply with SMS marketing regulations, including the **Telephone Consumer Protection Act (TCPA)** and **CAN-SPAM Act**. By submitting this form, users provide explicit consent to receive SMS messages related to their inquiry with our services.
+By submitting the form, users explicitly consent to receive SMS messages and are informed of their ability to opt-out at any time by replying with STOP. Consent records are securely logged and stored in Google Sheets for compliance verification.
 
-## Features:
-- **Opt-in consent** for SMS marketing
-- **Opt-out** instructions for unsubscribing at any time
-- **Secure data handling** (submissions stored in Google Sheets)
-- Compliance with **CTIA**, **TCPA**, and **carrier regulations**
+This repository includes:
 
-## How to Use:
-1. Clone or download this repository to your local machine.
-2. Upload the `index.html` file to GitHub Pages or your preferred hosting platform.
-3. Modify the `action` attribute in the form tag with your Google Apps Script URL to log form submissions to Google Sheets.
-4. Publish the page and share the URL for clients to opt-in to receive SMS updates.
+A customized opt-in form for SMS marketing consent.
 
-## Integration:
-- The form is connected to a **Google Sheet** via **Google Apps Script**, which automatically logs opt-ins, opt-outs, and timestamps.
-- [Company Name] will only send SMS communications about your inquiry, and you can opt-out at any time by replying **STOP** to any message.
+Integration with Google Sheets to log opt-ins and opt-outs automatically.
 
-## Privacy:
-We are committed to **data privacy**. Your phone number and other information are securely stored and only used for sending SMS messages. You can request a copy of your consent records and data at any time.
+Compliance with CTIA, TCPA, and other carrier regulations.
 
-https://forms.gle/D5GszJJMwXvm4nVE8
+Purpose:
+To provide a clear and secure method for users to opt-in for SMS marketing.
+
+To maintain a compliant and transparent communication process with customers.
+
+https://forms.gle/sSoHDHAWpAhVbFso6
