@@ -1,18 +1,24 @@
-This repository contains the SMS Consent Form for Cozy Can to ensure compliance with SMS marketing regulations, including the Telephone Consumer Protection Act (TCPA), CAN-SPAM Act, and other applicable laws. The form allows users to opt-in to receive SMS communications regarding their inquiry into Cozy Can's services, such as quotes, updates, promotions, and more.
+ # Cozy Can LLC SMS Opt-In Disclosure
+ 
+ Cozy Can LLC offers premium Luxury Portable restroom and event planning support
+ 
+ ## What to Expect:
+ By opting into our SMS program, you may receive:
+ - Service inquiries and quotes
+ - Project updates
+ - Scheduling information
+ - Promotions or special offers
+ 
+ ## Opt-In Message Example:
+ "Hey, this is Rick from Cozy Can 👋  
+ Do you consent to receive SMS messages from HyperFloor at the number you provide? These may include updates, quotes, scheduling info, and promotional offers. Msg & data rates may apply. Consent is not a condition of purchase. Text STOP to opt out
+ Reply YES to opt-in or NO to opt-out. Msg & data rates may apply."
+ 
+ ## Opt-Out Instructions:
+ Reply STOP at any time to unsubscribe.
+ 
+ ---
+ 
+ We respect your privacy and will never sell or misuse your information.
 
-By submitting the form, users explicitly consent to receive SMS messages and are informed of their ability to opt-out at any time by replying with STOP. Consent records are securely logged and stored in Google Sheets for compliance verification.
-
-This repository includes:
-
-A customized opt-in form for SMS marketing consent.
-
-Integration with Google Sheets to log opt-ins and opt-outs automatically.
-
-Compliance with CTIA, TCPA, and other carrier regulations.
-
-Purpose:
-To provide a clear and secure method for users to opt-in for SMS marketing.
-
-To maintain a compliant and transparent communication process with customers.
-
-https://forms.gle/sSoHDHAWpAhVbFso6
+ https://forms.gle/NigywgeGnnzRXa6t9
